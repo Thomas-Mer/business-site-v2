@@ -1,3 +1,15 @@
+# Business Website (One Page)
+
+Live: https://comfy-dieffenbachia-093a88.netlify.app/
+Repo: https://github.com/Thomas-Mer/business-site-v2
+
+## About
+Client-ready one-page business site focused on clarity and usability.
+
+## Tech
+React, Vite, CSS, Netlify
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
